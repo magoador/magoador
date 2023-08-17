@@ -38,13 +38,6 @@
 
 ---
 
-<h2>Мои работы:</h2>
-
-- <a href='https://github.com/magoador/Hospital-front'>Лендинг для стоматологической клиники | frontend</a>
-- <a href='https://github.com/magoador/Hospital-back'>Лендинг для стоматологической клиники | backend</a>
-
----
-
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/magoadors/badges/large)
