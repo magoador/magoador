@@ -34,7 +34,7 @@
 
 ---
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AM_Magomedov) [![MailRu](https://img.shields.io/badge/Mail.Ru-magomedov951@mail.ru-blue?style=flat&logo=mail)]('mailto:magomedov951@mail.ru')
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AM_Magomedov) [![MailRu](https://img.shields.io/badge/Mail.Ru-malikmagomedov95@mail.ru-blue?style=flat&logo=mail)]('mailto:magomedov951@mail.ru')
 
 ---
 
